@@ -1,0 +1,35 @@
+<persons>
+	<person sl='1'>
+		<name>John Doe</name>
+        <Address>
+        	<house>34</house>
+        	<road>3</road>
+        	<area>Banani</area>
+        	<city>Dhaka</city>
+        <department>sales</department>
+        <salary>$20000</salary>
+</person>
+
+ <person sl='2' >
+		<name>John Doe</name>
+        <Address>
+        	<house>20</house>
+        	<flat>A/1</flat>
+        	<road>18</road>
+        	<area>Mirpur</area>
+        	<city>Dhaka</city>
+        <department>sales</department>
+        <salary>$12000</salary>
+</person>
+ 
+<person sl ='3'>
+		<name>John Doe</name>
+        <Address>
+        	<house>38</house>
+        	<road>3</road>
+        	<area>Motijheel</area>
+        	<city>Dhaka</city>
+        <department>sales</department>
+        <salary>$23000</salary>
+ </person>
+</persons>
